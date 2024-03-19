@@ -3,18 +3,17 @@
     font-size:15px;
     font-weight: 500;
     width: 400px;
-    margin: 40px auto;
-    padding: 100px 80px ;
+    margin: 60px auto;
+    padding: 30px;
     border-radius: 14px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .btn{
-    font-weight: 700;
-    
+    font-weight: 600;
     border: 10px;
-    padding: 18px 40px;
-    border-radius: 46px;
+    padding: 11px;
+    border-radius: 30px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     
 }
@@ -134,3 +133,70 @@
   
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
+
+
+.main{
+    width: 400px;
+    margin: 40px auto;
+    padding: 20px ;
+    border-radius: 14px;
+    box-sizing: border-box;
+
+    border: 1px solid lightgray;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+.img{
+    box-sizing: border-box;
+    width: 50px;
+   
+    border-radius: 100px;
+
+  
+    
+
+
+
+
+}
+.imgg{
+    width: 56px;
+    
+    
+}
+
+
+
+.btn0{
+    background-color: rgb(255, 255, 255);
+    font-weight: 500;
+    font-size: medium;
+    color: rgb(66, 143, 231);
+    border:none;
+    
+    
+   
+    padding: 16px 30px;
+  
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
